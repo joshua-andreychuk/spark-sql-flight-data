@@ -9,7 +9,7 @@ This project demonstrates my ability to analyze large structured datasets using 
 To analyze flight on-time data and airport metadata using Spark, answering both specific and open-ended business questions. This project showcases skills in:  
 - **Data querying and aggregation** using Spark SQL.  
 - **Exploratory data analysis** to uncover patterns and trends.  
-- **Efficient handling of large datasets** using distributed data processing with Apache Spark.  
+- **Efficient handling of large datasets** using distributed data processing with Apache Spark and HDFS.  
 
 ---
 
@@ -27,7 +27,8 @@ To analyze flight on-time data and airport metadata using Spark, answering both 
 ---
 
 ## Tools and Technologies  
-- **Apache Spark**: Spark SQL and DataFrame API for distributed data processing.  
+- **Apache Spark**: Spark SQL and DataFrame API for distributed data processing.
+- **HDFS**: Distributed storage system for managing large datasets.  
 - **Scala**: Primary programming language for Spark operations.  
 - **Jupyter Notebook**: Interactive environment to document and run the analysis.  
 
